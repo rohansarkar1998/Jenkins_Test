@@ -1,5 +1,5 @@
 
-public class ArrayTest {
+public class ArrayTest21 {
     public static void main(String[] args) {
         int[] array = {1,2,3,4};
 	int sum = 0
